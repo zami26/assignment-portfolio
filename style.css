@@ -71,3 +71,13 @@ background-color: black;
 color:white;
 text-align: center;}
 #footer-font{font-size: 13px;}
+.last-image{width: 65%;
+border-radius: 40px;
+margin-left: 100px;
+margin-top: 100px;}
+.last-section{display: flex;}
+.last-headline{font-size: 30px;}
+.last-div{margin-top: 100px;
+margin-right: 400px;}
+#comments{width: 350px;
+height: 100px;}
