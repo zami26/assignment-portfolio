@@ -12,6 +12,35 @@ margin: 100px}
 .second-div{padding-bottom: 20px;
     width: 400px;}
 .first-section{display: flex;}
+.second-section{display: flex;}
 .second-headline{font-size: 40px;
 text-align: center;
 font-size: 50px;}
+.second-inage{
+    width: 190px;}
+ .third-div{width: 20%;
+background-color: #EDF5F6;
+padding: 30px;
+border-radius: 40px;
+margin-left: 150px;} 
+.third-image{width: 190px;} 
+.forth-div{width: 20%;
+background-color:#FFEEEE ;
+padding: 30px;
+border-radius:40px ;
+margin-left: 30px;}
+.fith-div{width: 20%;
+background-color:#FFF4D6 ;
+padding: 30px;
+border-radius:40px ;
+margin-left: 30px;
+height:40% ;}
+.forth-image{width: 30%;
+border-radius: 40px;
+margin-left: 100px ;
+margin-top: 60px;}
+.third-section{
+    display: flex;}
+.sisth-div{margin-top: 100px;
+margin-left: 100px;}
+.thard-headline{font-size: 35px;}
