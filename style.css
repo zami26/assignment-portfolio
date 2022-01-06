@@ -37,10 +37,16 @@ margin-left: 30px;
 height:40% ;}
 .forth-image{width: 30%;
 border-radius: 40px;
-margin-left: 100px ;
+margin-left: 140px ;
 margin-top: 60px;}
 .third-section{
-    display: flex;}
+    display: flex;} 
+.background-img{
+    background-image:url(mission-2022-main/images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+   background-position-y: center;
+background-position-x: 25px ;}
 .sisth-div{margin-top: 100px;
 margin-left: 100px;}
 .thard-headline{font-size: 35px;}
+.develop-unlimited{width: 500px;}
